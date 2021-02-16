@@ -1,0 +1,6 @@
+for shwing database query in console we are using show sql
+=>spring.jpa.show-sql=true
+dialect -based on database hibernate generating a value
+=>spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+ddl-it is creating a database table based on your curd operation if you are using create it
+    is creating a new table,update it is updating if already tables is there.

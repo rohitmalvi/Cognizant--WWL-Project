@@ -1,0 +1,58 @@
+while transfering cargo vpc to dealer if any damageing is happen so this application
+is providing any replacement or insorance details.
+
+The Cargo Express Courier will maintain one database for one user so to 
+know the details of any user will take some time as he/she need to search for details.
+Tracking -> GPS and Bar-Code.
+warehouse
+Supply Chain - Transforming a raw materials into products, and getting it to customers
+Logistics - Movement of materials in whole supply chain
+product-> quantity-> condition-> place-> time-> customer-> proce
+Transportation-> Warehousing-> 3&4 PL Logistics-> Reverse Logistics
+Transportaion-> air, train, road, ocean
+Warehousign-> receiving, storing, shipping
+Reverse Logistics-> returns, ReUse, Recycling, Dsposal
+
+1. Products are made in a factory
+2. Booking to Forwarder
+3. Forwarder arrange logistics
+4. Check docuemts and info 
+5. Empty container pick up
+6. Cargo Pick up
+7. Cargo at the port *VGM&Shipping
+8. Container Lift on Vessel
+9. B/L is issued
+10. Ocean Export
+----------------------------
+11 a/n is issued
+12 payment for A/N & Submit B/L 
+13 Release D/o
+14 Import Custom Clearance
+15 Container Release
+16 Cargo Delivery
+Finish delievery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

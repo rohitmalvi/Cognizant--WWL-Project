@@ -1,0 +1,5 @@
+The followig are the three base interfaces defined in the spring data commons project.
+1. Repository
+2. CurdRepository  
+3. PagingAndSortingRepository
+4. JpaRepository

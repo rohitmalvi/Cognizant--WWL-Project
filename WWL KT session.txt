@@ -1,0 +1,78 @@
+Topics to be covered. (Balaji)
+
+ 
+1) WITS EDI Migration - Architecture - Overview and using EDI log screens in new WITS online
+
+2) Plant Receive Screen and Assign Parking Module
+
+3) FAPS Receive Process
+
+4) Eclipse navigation, debugging , system I navigator, Squirrel, 
+AS400 session, Azure Git etc
+
+As4 migrated to java
+EDI- tipco -> xml or json
+
+vpc- palne manufacturing units, add accessari ship to dealer 
+vpc- manafacturing car nisan 
+a p m -
+faps- outboand process 
+wits-tipco-convert format 
+as400-
+wits edi migration- inboand and outboand
+inboand- message type tables
+direction -i/o 
+message type -unic id - wits on - tipco
+parter -> customer
+file-> client
+
+two type of inbonad-> json/xml
+
+tipco direct hit api
+
+input- go one flow-
+
+t-intlog- inbonad log(table)- message type, file name-> tipco recieved send
+wits onilne.
+input push into que lisent by listerner 
+
+inbonad log-search inboand details 'error success' status code see via
+table or screen.
+reprocess-> 
+plant receive- used by vpc
+Model - model of the car (maruti, shpht)
+
+outbound market- 
+dealer_ manufacture detail 
+assign parking module-parking location master-under parking
+we have some location a01 aa01 each having
+limit store care 
+
+trac number 
+rail to dealter
+we will have some configuration
+prviding parking 
+
+FAPS- outboand- billing system- we are not handle 
+we have event type.
+we will recieved faps we will inform 
+
+system i navigator- 
+as400 session
+assure repo
+pipe lines 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
