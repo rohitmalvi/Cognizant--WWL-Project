@@ -1,0 +1,7 @@
+A Development environment is where you configure, customize, and use source control to build an image of the Waveset application to be promoted to another environment. You also write an upgrade procedure in this environment that you follow in each target environment.
+
+A Test environment is where you test your upgrade procedure against controlled data and perform controlled testing of the resulting Waveset application.
+
+A QA environment is where you test your upgrade procedure against data, hardware, and software that closely simulate the Production environment and where you allow intended users to test the resulting Waveset application.
+
+A Production environment is where the Waveset application is actually available for business use.
