@@ -1,0 +1,70 @@
+factory or warehouse
+stuffing/loading
+port/place
+
+Supply Chain:- Process of converting Raw material to Product and getting it to Customer
+Logistics:- Movement of raw material or finished goods in the whole supply chain
+
+7 R's(right) of Logistic Managment
+right product, right quantity, right condition, right place,
+right rtime, right customer, right price.
+origin to consumption
+point of origin(factory)
+point of consumption(user who is using that)
+
+consignor(sender) or consignee(receiver)
+
+CFS stands for Container Freight Station and refers to a warehouse where 
+cargo that belongs to various exporters or importers is consolidated or 
+deconsolidated before being exported or imported
+
+
+EPOD- Electronic Proof of Delivery
+
+
+??constants ,master data
+
+Line of business (LOB) is a general term which refers to a product or a set of 
+related products that serve a particular customer transaction or business need.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
